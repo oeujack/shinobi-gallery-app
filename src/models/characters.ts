@@ -14,3 +14,4 @@ export type Village = {
   symbol: string;
   characters: Pick<Characters, 'id' | 'name'>[];
 };
+
